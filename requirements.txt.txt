@@ -1,6 +1,0 @@
-telegram
-python-telegram-bot==20.0
-openai
-requests
-python-dotenv
-yt-dlp

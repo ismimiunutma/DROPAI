@@ -1,5 +1,6 @@
-python-telegram-bot==20.8
-openai==1.35.3
-python-dotenv==1.0.1
-requests==2.32.3
-yt-dlp==2023.12.30
+﻿telegram
+python-telegram-bot==20.0
+openai
+requests
+python-dotenv
+yt-dlp
